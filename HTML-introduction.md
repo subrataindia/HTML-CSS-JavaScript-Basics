@@ -66,7 +66,7 @@ After `head` element we have `body` element. It contains all the elements those 
 ## [Check Your Progress](https://docs.google.com/forms/d/e/1FAIpQLSdy3EB70Y_Da8HTBA17tfZh2VIKIey1EJ13re73XoX73QAiIg/viewform)
 
 
-## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Follow [Subrat Sir!](https://kunal-kushwaha.github.io) 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Follow [Subrat Sir!](https://github.com/subratsir) 
 
 <a href="https://in.linkedin.com/in/subratsir">
   <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
