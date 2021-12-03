@@ -66,6 +66,25 @@ After `head` element we have `body` element. It contains all the elements those 
 ## [Check Your Progress](https://docs.google.com/forms/d/e/1FAIpQLSdy3EB70Y_Da8HTBA17tfZh2VIKIey1EJ13re73XoX73QAiIg/viewform)
 
 
+## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Follow [Subrat Sir!](https://kunal-kushwaha.github.io) 
+
+<a href="https://in.linkedin.com/in/subratsir">
+  <img align="left" width="24px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg"  />
+</a>
+<a href="https://twitter.com/SubratSirIndia">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />
+</a>
+<a href="mailto:subrat.ku.dash@gmail.com">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/gmail.svg" />
+</a>
+<a href="https://www.youtube.com/channel/UCTCmj3TOBxI_5f1J-n7kN5A">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/youtube.svg" />
+</a>
+<a href="https://discord.gg/KYYWfcVU">
+  <img align="left" width="26px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/discord.svg" />
+</a>
+
+<br />
 
 
 
