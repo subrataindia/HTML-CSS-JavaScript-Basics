@@ -15,4 +15,11 @@ There are three types of web developers.
 
 3. Full-stack developers : These developers can work on both the front and back end. In large companies number of front developers work on front end task and number of back end developers work on back end task. But in [startups](https://www.forbes.com/advisor/investing/what-is-a-startup/) 5 to 10 full stack developers work on a project. So if you are a full stack developer, you can apply in large companies as well as startups.
 
+## Is coding difficult and frustrating ?
+Answer may be yes. Web development has a vast scope as a career as compared to other career oportunities. What ever the career you choose there are challenges. Normally as a human being we try for 3 to 5 times and gets frustrated if not able to achieve that. But remember if you set your goal and continue trying definitely one day you will get success. 
+### The story of Thomas Edison
+Thomas Edison's teachers said he was "too stupid to learn anything." He was fired from his first two jobs for being "non-productive." As an inventor, Edison made 1,000 unsuccessful attempts at inventing the light bulb. When a reporter asked, "How did it feel to fail 1,000 times?" Edison replied, "I didn’t fail 1,000 times. The light bulb was an invention with 1,000 steps."
+
+_**so remember nothing is impossible to achieve**_. You have not tried the required number of times or in Thomas Edison's word you have not completed all 1000 steps to invent light bulb. [Click here to read more motivational stories of not giving up](https://www.uky.edu/~eushe2/Pajares/OnFailingG.html)
+
 
