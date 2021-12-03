@@ -22,4 +22,6 @@ Thomas Edison's teachers said he was "too stupid to learn anything." He was fire
 
 _**so remember nothing is impossible to achieve**_. You have not tried the required number of times or in Thomas Edison's word you have not completed all 1000 steps to invent light bulb. [Click here to read more motivational stories of not giving up](https://www.uky.edu/~eushe2/Pajares/OnFailingG.html)
 
-
+<p align="center" width="100%">
+    <img width="33%" src="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/img/next-lesson1.png" width="250" height="auto" > 
+</p>
