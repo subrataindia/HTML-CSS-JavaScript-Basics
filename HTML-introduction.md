@@ -43,6 +43,27 @@ The third line `<head>` wraps important meta information about our webpage. It w
 
 After `head` element we have `body` element. It contains all the elements those will be displayed on the web page.
 
+## Assignment.
+
+- Create a text file and rename it to `progam1.html` .
+- Write the below code with in that file.
+```
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta http-equiv="X-UA-Compatible" content="IE=edge">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>Hello World</title>
+</head>
+<body>
+    <h1>Hello World!</h1
+</body>
+</html>
+```
+- Open this file in any web browser and see the output.
+
+
 
 
 
