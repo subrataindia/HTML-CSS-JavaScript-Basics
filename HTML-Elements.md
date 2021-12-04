@@ -72,4 +72,12 @@ To create a link in same page or to another page `a` tag is used.
 
 - `<a href="#">Click Here</a> `  : This will redirect you no where. This is called empty anchor tag.
 
+## HTML Images
+To make our website eye caching and interesting we have to use images in our website. This can be done using `img` tag.
+
+Example :
+```
+<img src="logo.jpg" >
+```
+Remember `img` tag don't have a closing tag. `src` attribute specifies the address of the image file. This address can be relative as well as absolute.
 
