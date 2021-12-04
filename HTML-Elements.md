@@ -65,7 +65,8 @@ Example :
 ## Anchor Elements
 To create a link in same page or to another page `a` tag is used.
 
-- `<a href="https://mywebsite.com/mypage">Click to go to my website</a> `  : This redirects you to a new website
+- `<a href="https://mywebsite.com/mypage">Click to go to my website</a> `  : This redirects you to a new website. The address of website is mentioned as a value of `href` attribute. This website address can be absolute or relative. The address mentioned in this example is absolute address.
+   - `<a href="mypage.html">Click to go to my website</a> `  : This will redirect you to the mypage.html only if it exists in the same directory.
 
 - `<a href="#mySection">Click to go to a section</a>` : This redirects you to a portion of the same page where an element with `id` attribute of `mySection` exist. Remember the value of `id` attribute is case sensitive.
 
