@@ -66,6 +66,12 @@ After `head` element we have `body` element. It contains all the elements those 
 ## [Check Your Progress](https://docs.google.com/forms/d/e/1FAIpQLSdy3EB70Y_Da8HTBA17tfZh2VIKIey1EJ13re73XoX73QAiIg/viewform)
 
 <p align="center" width="100%">
+    <a href="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/HTML-Elements.md">
+        <img width="33%" src="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/img/next-lesson1.png" width="250" height="auto" /> 
+    </a>
+</p>
+
+<p align="center" width="100%">
 <h1>Have a question ?</h1>
 <p>Chat with our friendly community in our Discord Chatrooms!</p>
 <a href="https://discord.gg/KYYWfcVU"><img src="https://quoramarketing.com/wp-content/uploads/2021/08/Fix-Discord-Error-Code-96.jpg" alt="Open Discord" width="150px" height="auto" /></a>
