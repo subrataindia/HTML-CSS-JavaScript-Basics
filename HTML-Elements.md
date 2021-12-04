@@ -47,3 +47,28 @@ In real world when you are writting any program, it may have thousands of lines.
 
 All text lines written with in these two tags are treated as comment and ignored by browser.
 
+## HTML Lists
+There are two types of lists in HTML as 1.`ul` (unordered list) and 2. `ol` (ordered list)
+
+The lists are used to display menu items, list of shopping items, steps of a process etc. If you want to display bullets then use `ul` and If you want to display numbers or letters in list then use `ol`.
+
+a number of `li`s nested with in `ul` or `ol` to specify list items.
+
+Example : 
+```
+<ul>
+   <li>Item 1</li>
+   <li>Item 2</li>
+   <li>Item 3</li>
+</ul>
+```
+## Anchor Elements
+To create a link in same page or to another page `a` tag is used.
+
+- `<a href="https://mywebsite.com/mypage">Click to go to my website</a> `  : This redirects you to a new website
+
+- `<a href="#mySection">Click to go to a section</a>` : This redirects you to a portion of the same page where an element with `id` attribute of `mySection` exist. Remember the value of `id` attribute is case sensitive.
+
+- `<a href="#">Click Here</a> `  : This will redirect you no where. This is called empty anchor tag.
+
+
