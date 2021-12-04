@@ -65,6 +65,11 @@ After `head` element we have `body` element. It contains all the elements those 
 
 ## [Check Your Progress](https://docs.google.com/forms/d/e/1FAIpQLSdy3EB70Y_Da8HTBA17tfZh2VIKIey1EJ13re73XoX73QAiIg/viewform)
 
+<p align="center" width="100%">
+<h1>Have a question ?</h1>
+<p>Chat with our friendly community in our Discord Chatrooms!</p>
+<a href="https://discord.gg/KYYWfcVU"><img src="https://quoramarketing.com/wp-content/uploads/2021/08/Fix-Discord-Error-Code-96.jpg" alt="Open Discord" width="150px" height="auto" /></a>
+</p>
 
 ## Hey <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="29px">, Follow [Subrat Sir!](https://github.com/subratsir) 
 
