@@ -67,7 +67,7 @@ After `head` element we have `body` element. It contains all the elements those 
 
 <p align="center" width="100%">
     <a href="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/HTML-Elements.md">
-        <img width="33%" src="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/img/next-lesson1.png" width="250" height="auto" /> 
+        <img width="33%" src="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/img/next-lesson1.png" width="250px" height="auto" /> 
     </a>
 </p>
 
