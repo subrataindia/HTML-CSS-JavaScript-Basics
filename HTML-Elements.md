@@ -83,6 +83,13 @@ Remember `img` tag don't have a closing tag. `src` attribute specifies the addre
 
 ## [Check Your Progress](https://docs.google.com/forms/d/e/1FAIpQLSdy3EB70Y_Da8HTBA17tfZh2VIKIey1EJ13re73XoX73QAiIg/viewform)
 
+
+<p align="center" width="100%">
+    <a href="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/HTML-Project-1.md">
+        <img width="33%" src="https://github.com/subratsir/HTML-CSS-JavaScript-Basics/blob/main/img/next-lesson1.png" width="250px" height="auto" /> 
+    </a>
+</p>
+
 <p align="center" width="100%">
 <h1>Have a question ?</h1>
 <p>Chat with our friendly community in our Discord Chatrooms!</p>
