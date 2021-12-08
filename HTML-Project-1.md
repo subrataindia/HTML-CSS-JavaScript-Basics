@@ -18,6 +18,10 @@ This is the first project where we will learn implementation of some of the comm
 ## Final Output
 Open the website in any web browser to know how it looks.
 
+[See it live here](https://subratsir.github.io/project1-with-subrat-sir/) 
+
+[See Source Code here](https://github.com/subratsir/project1-with-subrat-sir)
+
 Note : You can use [Canva](https://www.canva.com/) or any other online tool or offline tool to resize all the images as per your choice, So the website will look good.
 
 
